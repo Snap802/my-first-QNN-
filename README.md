@@ -1,4 +1,4 @@
-# qnnlib
+# QNNLIB!
 
 Minimal educational Quantum Neural Network simulation library.
 
